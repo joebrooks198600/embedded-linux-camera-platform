@@ -1,0 +1,26 @@
+# Yocto build output
+build/
+tmp/
+sstate-cache/
+downloads/
+
+# Build artifacts
+*.wic
+*.wic.bz2
+*.wic.gz
+*.tar.bz2
+*.tar.gz
+*.ipk
+*.rpm
+*.deb
+
+# Logs
+*.log
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
